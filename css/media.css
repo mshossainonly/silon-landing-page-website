@@ -1,0 +1,301 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+.headertop {
+    padding: 0;
+}
+.headerbtm {
+    padding: 15px 0;
+}
+.menubtm ul {
+    margin-left: 0px;
+}
+.hicon i {
+    margin-left: 9px;
+    font-size: 15px;
+}
+/*banner start*/
+.ban-text {
+    margin: 40px 0;
+}
+.ban-subtitle {
+    font-size: 20px;
+}
+.ban-title {
+    margin-bottom: 30px;
+    font-size: 45px;  
+}
+/*feature start*/
+.feature-pro {
+    padding-bottom: 60px;
+}
+.single-item {
+    margin-top: 25px;
+}
+.common-icon a i {
+    margin-right: 10px;
+}
+.common-icon {
+    top: 240px;
+    left: 5px;
+}
+/*collection start*/
+.coll-text {
+    margin: 30px 0;
+}
+.coll-title {
+    font-size: 50px;
+}
+.coll-subtitle {
+    margin: 30px 0;
+    font-size: 25px;
+}
+/*popular start*/
+.popular{
+    padding-bottom: 60px;
+}
+.ctitle {
+    margin: 25px 0;
+}
+/*service start*/
+.service{
+    padding-bottom: 50px;
+}
+.s-text {
+    margin-bottom: 30px;
+}
+/*tending start*/
+.trend{
+    padding-bottom: 60px;
+}
+/*journal start*/
+.journal{
+    padding-bottom: 60px;
+}
+.follow{
+    padding-bottom: 60px;
+}
+/*footer start*/
+.ftop-text {
+    margin-top: 50px;
+}
+.social-icon li a i {
+    padding: 8px;
+    width: 30px;
+    height: 30px;
+}
+.f-title {
+    margin-bottom: 20px;
+}
+
+
+
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.headertop {
+    padding: 0;
+}
+.headerbtm {
+    padding: 15px 0;
+}
+.menubtm ul {
+    margin-left: 0px;
+}
+.hicon i {
+    margin-left: 20px;
+    font-size: 15px;
+}
+/*banner start*/
+.ban-text {
+    margin: 40px 0;
+}
+.ban-subtitle {
+    font-size: 20px;
+}
+.ban-title {
+    margin-bottom: 35px;
+    font-size: 45px;  
+}
+/*feature start*/
+.feature-pro {
+    padding-bottom: 60px;
+}
+.single-item {
+    margin-top: 25px;
+}
+.common-icon a i {
+    margin-right: 10px;
+}
+.common-icon {
+    top: 70px;
+    left: 5px;
+}
+/*collection start*/
+.coll-text {
+    margin: 30px 0;
+}
+.coll-title {
+    font-size: 60px;
+}
+.coll-subtitle {
+    margin: 30px 0;
+    font-size: 30px;
+}
+/*popular start*/
+.popular{
+    padding-bottom: 60px;
+}
+.ctitle {
+    margin: 25px 0;
+}
+/*service start*/
+.service{
+    padding-bottom: 60px;
+}
+.s-text {
+    margin-bottom: 30px;
+}
+/*tending start*/
+.trend{
+    padding-bottom: 60px;
+}
+/*journal start*/
+.journal{
+    padding-bottom: 60px;
+}
+.follow{
+    padding-bottom: 60px;
+}
+/*footer start*/
+.ftop-text {
+    margin-top: 50px;
+}
+.social-icon li a i {
+    padding: 8px;
+    width: 30px;
+    height: 30px;
+}
+.f-title {
+    margin-bottom: 20px;
+}
+
+
+
+
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.contact span{
+     font-size: 14px;
+}
+.email {
+    margin-left: 10px;
+}
+.topmenu {
+    margin-left: 20px;
+}
+.topmenu li a {
+    margin: 0px;
+    font-size: 14px;
+}
+.headerbtm {
+    padding: 15px 0;
+}
+/*banner start*/
+.ban-subtitle {
+    font-size: 20px;
+}
+.ban-title {
+    margin-bottom: 35px;
+    font-size: 45px;  
+}
+/*feature start*/
+.feature-pro {
+    padding-bottom: 70px;
+}
+.single-item {
+    margin-top: 30px;
+}
+.common-icon a i {
+    margin-right: 10px;
+}
+.common-icon {
+    top: 185px;
+    left: 5px;
+}
+/*collection start*/
+.coll-title {
+    font-size: 60px;
+}
+.coll-subtitle {
+    margin: 40px 0;
+    font-size: 30px;
+}
+/*popular start*/
+.popular{
+    padding-bottom: 70px;
+}
+.ctitle {
+    margin: 30px 0;
+}
+/*service start*/
+.service{
+    padding-bottom: 70px;
+}
+.s-text {
+    margin-bottom: 30px;
+}
+/*tending start*/
+.trend{
+    padding-bottom: 70px;
+}
+/*journal start*/
+.journal{
+    padding-bottom: 70px;
+}
+.follow{
+    padding-bottom: 70px;
+}
+/*footer start*/
+.ftop-text {
+    margin-top: 50px;
+}
+.social-icon li a i {
+    padding: 8px;
+    width: 30px;
+    height: 30px;
+}
+
+
+
+
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*header start*/
+.topmenu li a {
+    margin: 0px;
+}
+
+
+
+}
+
+/*X-Large devices (larger desktops, 1200px and up)*/
+@media (min-width:1200px) and (max-width: 1399.98px) {
+
+}
+
+/*XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+}
